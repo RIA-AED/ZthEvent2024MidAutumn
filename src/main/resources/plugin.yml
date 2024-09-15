@@ -1,0 +1,10 @@
+name: ZthEvent2024MidAutumn
+version: '1.0-SNAPSHOT'
+main: ink.magma.zthEvent2024MidAutumn.ZthEvent2024MidAutumn
+api-version: '1.20'
+authors: [ Claude3.5, Magma ]
+
+commands:
+  zthevent2024midautumn:
+    description: 管理中秋节活动的自定义掉落物
+    usage: /<command> <add|clear>
